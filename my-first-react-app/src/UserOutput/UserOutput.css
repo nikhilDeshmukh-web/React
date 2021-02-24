@@ -1,0 +1,8 @@
+.output {
+    border: 2px solid #eee;
+    margin: 30px;
+    padding: 10 px;
+    text-align: center;
+    background-color: rgb(110, 103, 100);
+    width: 50%;
+}

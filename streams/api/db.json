@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "test stream",
+      "description": "This is test stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "This is test stream 2",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "description": "Test for 3045",
+      "id": 7
+    },
+    {
+      "title": "Create Stream button",
+      "description": "Checking if create stream button works.aa",
+      "id": 8
+    },
+    {
+      "title": "History ",
+      "description": "History object test123",
+      "id": 9
+    }
+  ]
+}
